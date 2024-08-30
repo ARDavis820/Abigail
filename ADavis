@@ -5,12 +5,12 @@
 <body>
 <table>
 <tr>
-<td>Row 1, Column 1</https://artsci.tamu.edu/statistics/index.html>
-<td>Row 1, Column 2</"C:\Users\abiga\OneDrive\Pictures\Abigail  Davis.jpg">
+<td>/https://artsci.tamu.edu/statistics/index.html</td>
+<td>/"C:\Users\abiga\OneDrive\Pictures\Abigail  Davis.jpg"</td>
 </tr>
 <tr>
-<td>Row 2, Column 1</td>
-<td>Row 2, Column 2</I have a B.S. in Mathematics with a minor in Chemistry from Southern Arkansas University. I'm in the Statistical Data Science M.S. program at Texas A&M.>
+<td>I have a B.S. in Mathematics with a minor in Chemistry from Southern Arkansas University. I'm in the Statistical Data Science M.S. program at Texas A&M.</td>
+<td></td>
 </tr>
 </table>
 </body>
